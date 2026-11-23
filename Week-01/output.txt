@@ -1,1 +1,16 @@
+========== SOURCE CODE ANALYSIS ==========
+
+Line 1: int main() {
+Line 2:     int a = 10;
+Line 3:     int b = 20;
+Line 4:     int result = a + b;
+Line 5:     return 0;
+Line 6: }
+
+========== STATISTICS ==========
+
+Total lines       : 6
+Non-empty lines   : 6
+Empty lines       : 0
+Total characters   : 79
 
